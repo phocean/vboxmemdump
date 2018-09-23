@@ -14,7 +14,7 @@ So all the credit goes to him: many thanks!
 ```bash
 ➤  vboxmemdump.sh 
 
-[!] Please run '/usr/local/bin//vboxmemdump.sh <VM name>
+[!] Please run '/usr/local/bin//vboxmemdump.sh <VM name>'
 
 
 ➤  vboxmemdump.sh WinXP

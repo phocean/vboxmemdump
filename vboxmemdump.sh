@@ -7,7 +7,7 @@ PATH=$(/usr/bin/getconf PATH)
 
 if [[ ! $1 ]];
 then
-  echo -e "\n[!] Please run '$0 <VM name>\n"
+  echo -e "\n[!] Please run '$0 <VM name>'\n"
   exit 1
 fi
 
