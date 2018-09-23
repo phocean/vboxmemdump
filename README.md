@@ -4,7 +4,7 @@
 
 The generated raw image can be used straightfully with [Volatility](https://www.volatilityfoundation.org/).
 
-The script is mostly based on the [work](https://gist.github.com/andreafortuna/fa627fb06e8ddb509c0b5b244d07433e#file-vboxmemdump-sh) by @andreafortuna.
+The script is mostly based on the [work](https://gist.github.com/andreafortuna/fa627fb06e8ddb509c0b5b244d07433e#file-vboxmemdump-sh) by [andreafortuna](https://github.com/andreafortuna).
 It has only a few cosmetics improvements, and I plan to maintain this.
 
 So all the credit goes to him: many thanks!
